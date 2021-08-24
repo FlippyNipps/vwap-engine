@@ -1,0 +1,5 @@
+{
+  "product_ids" : ["BTC-USD","ETH-USD","ETH-BTC"],
+  "websocket_url": "wss://ws-feed.pro.coinbase.com",
+  "data_points_limit": 200
+}
